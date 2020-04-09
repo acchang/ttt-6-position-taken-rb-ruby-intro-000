@@ -1,6 +1,6 @@
 def position_taken?(board,index)
   array[index_number]
-  if board == " " 
+  if board == " "
     false
 end
 end
